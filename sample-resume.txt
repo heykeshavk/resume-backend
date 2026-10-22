@@ -1,0 +1,17 @@
+Jane Doe
+jane.doe@email.com | +1 555 010 2233
+
+Summary
+Software engineer with experience building REST APIs, data pipelines, and cloud deployments.
+
+Skills
+Python, FastAPI, SQL, Git, Linux, Docker, Pandas, problem solving, teamwork
+
+Experience
+Backend Engineer, Example Corp (2022–2025)
+- Built FastAPI services used by 20,000 monthly users
+- Wrote SQL reports and automated ETL jobs that cut reporting time by 30%
+- Collaborated with product in an Agile scrum team
+
+Education
+B.S. Computer Science
