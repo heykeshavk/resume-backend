@@ -25,6 +25,14 @@ uvicorn app.main:app --reload --host 127.0.0.1 --port 8000
 
 Open interactive docs at http://127.0.0.1:8000/docs
 
+## Railway
+
+This repo deploys as a FastAPI web service. Railway should run:
+
+`uvicorn app.main:app --host 0.0.0.0 --port $PORT`
+
+After the backend has a public URL, set `VITE_API_URL` on the frontend service to that URL (for example `https://resume-backend-production.up.railway.app`) and rebuild the frontend.
+
 ## API
 
 | Method | Path | Purpose |
